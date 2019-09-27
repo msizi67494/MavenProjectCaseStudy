@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41396" started-at="2019-09-27T16:55:31 CAT" finished-at="2019-09-27T16:56:12 CAT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41396" started-at="2019-09-27T16:55:31 CAT" finished-at="2019-09-27T16:56:12 CAT">
+      <class name="com.Module11CaseStudy.testcases.UploadPhotoTest">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:com.Module11CaseStudy.testcases.UploadPhotoTest@50b494a6]" name="setupBrowser" is-config="true" duration-ms="12162" started-at="2019-09-27T16:55:31 CAT" finished-at="2019-09-27T16:55:43 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="uploadPhotoTest()[pri:0, instance:com.Module11CaseStudy.testcases.UploadPhotoTest@50b494a6]" name="uploadPhotoTest" duration-ms="26444" started-at="2019-09-27T16:55:43 CAT" finished-at="2019-09-27T16:56:09 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadPhotoTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Module11CaseStudy.testcases.UploadPhotoTest@50b494a6]" name="closeBrowser" is-config="true" duration-ms="2728" started-at="2019-09-27T16:56:09 CAT" finished-at="2019-09-27T16:56:12 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Module11CaseStudy.testcases.UploadPhotoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
